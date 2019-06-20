@@ -1,0 +1,12 @@
+C:\Users\Z\Desktop\task12-(12,5)\task12-(12,5)\bin\Debug\task12-(12,5).exe.config
+C:\Users\Z\Desktop\task12-(12,5)\task12-(12,5)\bin\Debug\task12-(12,5).exe
+C:\Users\Z\Desktop\task12-(12,5)\task12-(12,5)\bin\Debug\task12-(12,5).pdb
+C:\Users\Z\Desktop\task12-(12,5)\task12-(12,5)\obj\Debug\task12-(12,5).csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task12-(12,5)\task12-(12,5)\obj\Debug\task12-(12,5).exe
+C:\Users\Z\Desktop\task12-(12,5)\task12-(12,5)\obj\Debug\task12-(12,5).pdb
+C:\Users\Z\Desktop\Практика\task12-(12,5)\task12-(12,5)\bin\Debug\task12-(12,5).exe.config
+C:\Users\Z\Desktop\Практика\task12-(12,5)\task12-(12,5)\obj\Debug\task12-(12,5).exe
+C:\Users\Z\Desktop\Практика\task12-(12,5)\task12-(12,5)\obj\Debug\task12-(12,5).pdb
+C:\Users\Z\Desktop\Практика\task12-(12,5)\task12-(12,5)\bin\Debug\task12-(12,5).exe
+C:\Users\Z\Desktop\Практика\task12-(12,5)\task12-(12,5)\bin\Debug\task12-(12,5).pdb
+C:\Users\Z\Desktop\Практика\task12-(12,5)\task12-(12,5)\obj\Debug\task12-(12,5).csprojResolveAssemblyReference.cache
